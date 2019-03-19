@@ -1,0 +1,9 @@
+name: IY3840-Lab-18
+dependencies:
+  - python
+  - numpy
+  - pip:
+    - scikit-learn
+    - pandas
+    - numpy
+    - matplotlib
